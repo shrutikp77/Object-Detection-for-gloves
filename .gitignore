@@ -1,0 +1,8 @@
+# Ignore backup and media files
+*.jpg
+*.jpeg
+*.png
+*.zip
+
+# Ignore your specific folders
+glove_detection_complete_backup/
